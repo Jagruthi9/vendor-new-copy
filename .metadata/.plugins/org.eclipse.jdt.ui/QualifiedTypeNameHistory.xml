@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.ApiOperation"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.Api"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.ApiModel"/>
+<fullyQualifiedTypeName name="io.swagger.annotations.ApiModelProperty"/>
+<fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
+<fullyQualifiedTypeName name="springfox.documentation.spi.DocumentationType"/>
+<fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+<fullyQualifiedTypeName name="springfox.documentation.service.ApiInfo"/>
+<fullyQualifiedTypeName name="springfox.documentation.service.Contact"/>
+<fullyQualifiedTypeName name="springfox.documentation.schema.Collections"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+<fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker"/>
+</qualifiedTypeNameHistroy>
